@@ -1,0 +1,25 @@
+      "name": "DmProcessing",
+    "securityToken": "DmProcessing Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "DM",
+            "color": "#5db300"
+        },
+      {
+            "name": "NoDM",
+            "color": "#Ff2e0b"
+        }
+    ],
+    "id": "7RlXfVRIX",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "79f84dcdb67d4e91fde8c6a260579f6c",
+
+https://ml.azure.com/experiments/id/0a437899-31dc-4b91-8320-c5464f960061/runs/dfvfzjtrdyxiemw?wsid=/subscriptions/ba0b1d1d-7dfc-4a52-94ae-e2fb02988e93/resourceGroups/MachineLearningRG1/providers/Microsoft.MachineLearningServices/workspaces/Machine_Learning12
